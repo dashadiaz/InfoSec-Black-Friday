@@ -159,6 +159,10 @@ Hacker House (Hands on Hacking) :see_no_evil:\
 https://hacker.house/training/ \
 35% discount with code: HACKFRIDAY
 
+itrainsec (Financial Malware Analysys advanced online course) :see_no_evil:\
+https://bit.ly/FMLWRE
+20% discount with code: BLCKFRDYFMA
+
 ## Services:
 
 ProtonMail\
