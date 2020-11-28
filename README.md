@@ -169,6 +169,10 @@ CloudGuru (was Linux Academy)\
 https://acloudguru.com/pricing  
 Various deals
 
+itrainsec Financial Malware Analysis course (live on-line course December 7-10)
+https://www.itrainsec.com/financial-re
+20% discount until Tuesday Dec 1 with code: BLCKFRDYFMA
+
 Zero2Automated Malware Analysis Course\
 https://courses.zero2auto.com/beginner-bundle  
 20% off with code: BLACKFRIDAYSALES
